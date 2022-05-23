@@ -8,7 +8,7 @@ I am a software engineering student, I am developing Back End projects with c# .
 
 * 🌍  I'm based in IZMIR - TURKEY
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/u%C4%9Fur-han-at%C4%B1lgan-22680020b/)
-* ✉️  You can contact me at [ugurhanatilan@gmail.com](mailto:ugurhanatilan@gmail.com)
+* ✉️  You can contact me at [ugurhanatilgan@gmail.com](mailto:ugurhanatilgan@gmail.com)
 * 🧠  I'm learning Flutter and Mobile Techs
 * 🤝  I'm open to collaborating on Aventura Team
 
